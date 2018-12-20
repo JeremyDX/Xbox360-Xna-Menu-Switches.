@@ -1,0 +1,15 @@
+Content\BACKGROUND.xnb
+Content\OVERLAY_BKG_FV.xnb
+Content\XBOX_FONT.xnb
+Content\MESSAGE_OVERLAY.xnb
+Content\BLOOD_LINE_BACKGROUND.xnb
+Content\XBOX_FONTv2.xnb
+Content\UNSELECTED_BUTTON_BKG.xnb
+Content\SELECTED_BUTTON_BKG.xnb
+Content\LOBBY_PLAYER_BKG.xnb
+Content\WHITE_SQUARE.xnb
+Content\GAME_ICONS.xnb
+Content\TITLE_FONT.xnb
+Content\MEDIUM_LABEL_FONT.xnb
+Content\LARGE_LABEL_FONT.xnb
+Content\SMALL_LABEL_FONT.xnb

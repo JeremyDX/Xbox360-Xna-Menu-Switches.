@@ -1,0 +1,23 @@
+G:\Hard Drive - July 11th\Programs\Microsoft Paid Products\Visual Studio 2010\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Release\Xbox 360 Game Project.exe
+G:\Hard Drive - July 11th\Programs\Microsoft Paid Products\Visual Studio 2010\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Release\Xbox 360 Game Project.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\BACKGROUND.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\OVERLAY_BKG_FV.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\XBOX_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\MESSAGE_OVERLAY.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\BLOOD_LINE_BACKGROUND.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\XBOX_FONTv2.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\UNSELECTED_BUTTON_BKG.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\SELECTED_BUTTON_BKG.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\LOBBY_PLAYER_BKG.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\WHITE_SQUARE.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\GAME_ICONS.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\TITLE_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\MEDIUM_LABEL_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\LARGE_LABEL_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\SMALL_LABEL_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Xbox 360 Game Project.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Xbox 360 Game Project.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Release\Xbox 360 Game Project.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Release\Xbox 360 Game Project.pdb

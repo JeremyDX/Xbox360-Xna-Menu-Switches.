@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BACKGROUND.PNG</Source>
+      <Name>BACKGROUND</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\BACKGROUND.xnb</Output>
+      <Time>2012-07-13T18:30:22.1875-04:00</Time>
+    </Item>
+    <Item>
+      <Source>OVERLAY_BKG_FV.png</Source>
+      <Name>OVERLAY_BKG_FV</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\OVERLAY_BKG_FV.xnb</Output>
+      <Time>2012-05-26T16:07:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>XBOX_FONT.png</Source>
+      <Name>XBOX_FONT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\XBOX_FONT.xnb</Output>
+      <Time>2012-07-14T13:32:59.125-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MESSAGE_OVERLAY.PNG</Source>
+      <Name>MESSAGE_OVERLAY</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\MESSAGE_OVERLAY.xnb</Output>
+      <Time>2012-07-02T10:59:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BLOOD_LINE_BACKGROUND.PNG</Source>
+      <Name>BLOOD_LINE_BACKGROUND</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\BLOOD_LINE_BACKGROUND.xnb</Output>
+      <Time>2012-06-13T22:28:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>XBOX_FONTv2.png</Source>
+      <Name>XBOX_FONTv2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\XBOX_FONTv2.xnb</Output>
+      <Time>2012-06-10T22:39:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>UNSELECTED_BUTTON_BKG.PNG</Source>
+      <Name>UNSELECTED_BUTTON_BKG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\UNSELECTED_BUTTON_BKG.xnb</Output>
+      <Time>2012-06-18T22:59:48-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SELECTED_BUTTON_BKG.png</Source>
+      <Name>SELECTED_BUTTON_BKG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\SELECTED_BUTTON_BKG.xnb</Output>
+      <Time>2012-06-18T22:59:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LOBBY_PLAYER_BKG.PNG</Source>
+      <Name>LOBBY_PLAYER_BKG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\LOBBY_PLAYER_BKG.xnb</Output>
+      <Time>2012-06-18T21:22:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>WHITE_SQUARE.PNG</Source>
+      <Name>WHITE_SQUARE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\WHITE_SQUARE.xnb</Output>
+      <Time>2012-06-29T18:54:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GAME_ICONS.PNG</Source>
+      <Name>GAME_ICONS</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\GAME_ICONS.xnb</Output>
+      <Time>2012-07-14T20:03:38.734375-04:00</Time>
+    </Item>
+    <Item>
+      <Source>TITLE_FONT.png</Source>
+      <Name>TITLE_FONT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\TITLE_FONT.xnb</Output>
+      <Time>2012-07-01T11:56:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MEDIUM_LABEL_FONT.spritefont</Source>
+      <Name>MEDIUM_LABEL_FONT</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\MEDIUM_LABEL_FONT.xnb</Output>
+      <Time>2012-05-20T10:06:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LARGE_LABEL_FONT.spritefont</Source>
+      <Name>LARGE_LABEL_FONT</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\LARGE_LABEL_FONT.xnb</Output>
+      <Time>2012-05-13T01:55:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SMALL_LABEL_FONT.spritefont</Source>
+      <Name>SMALL_LABEL_FONT</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\SMALL_LABEL_FONT.xnb</Output>
+      <Time>2012-05-20T10:06:02-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7D372C5A-3AF9-4F21-A565-A4E2B7FA8F3A}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-12T23:35:16.5625-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

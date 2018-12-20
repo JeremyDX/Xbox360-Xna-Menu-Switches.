@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\BACKGROUND.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\OVERLAY_BKG_FV.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\XBOX_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\MESSAGE_OVERLAY.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\BLOOD_LINE_BACKGROUND.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\XBOX_FONTv2.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\UNSELECTED_BUTTON_BKG.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\SELECTED_BUTTON_BKG.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\LOBBY_PLAYER_BKG.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\WHITE_SQUARE.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\GAME_ICONS.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\TITLE_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\MEDIUM_LABEL_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\LARGE_LABEL_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Content\SMALL_LABEL_FONT.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Xbox 360 Game Project.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\bin\Xbox 360\Debug\Xbox 360 Game Project.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Debug\Xbox 360 Game Project.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\Xbox 360 Game Project\Xbox 360 Game Project\Xbox 360 Game Project\obj\Xbox 360\Debug\Xbox 360 Game Project.pdb
